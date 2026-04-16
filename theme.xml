@@ -1497,7 +1497,7 @@
     import { getStorage, ref as sRef, uploadBytes, getDownloadURL } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-storage.js";
 
    const firebaseConfig = {
-    apiKey: "AIzaSyDGgrmnSIyFNUJxPbs99u4Iicka2uUct74",
+    apiKey: "",
     authDomain: "glidely-6ab1a.firebaseapp.com",
     projectId: "glidely-6ab1a",
     storageBucket: "glidely-6ab1a.firebasestorage.app",
