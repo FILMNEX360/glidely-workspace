@@ -1,0 +1,15 @@
+{
+  "name": "Glidely Workspace",
+  "short_name": "Glidely",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090A0F",
+  "theme_color": "#5E6AD2",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUnD6GLBiQZkoOhx3uFY-KTqUxEh1eK8olVgp3TxwYmnLZWP1RKM2UbZwaGBCjPIGMpZSav_1wdi83pCm9Z4E5uNU_IwaofqTjxp6br3DtAvLmPXU5AQ_cBmSqZe4Cdzad8gE7LG08SE1UA26HOdMWy5DZmzYy7I0_BdqzkRn-QovTbiIxrFDv8JfR2ZQ/s1600/gemini-svg.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
